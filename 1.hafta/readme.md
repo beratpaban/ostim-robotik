@@ -4,7 +4,7 @@
 
 Mikrodenetleyiciler, elektronik makinelerin beyni olarak kabul edilir. Programlanarak elektronik cihazların belirli görevleri yerine getirmesini sağlayan minik bilgisayarlardır.
 
-###### İç Yapısı:
+##### İç Yapısı:
 * `MİB (Merkezi İşlem Birimi):` Programları çalıştıran ve diğer birimlerle iletişimi sağlayan ana işlemci.
 
 * `Bellek (RAM & ROM):` RAM, bilgileri geçici olarak tutarken; ROM, sistemin çalışması için gerekli kalıcı programları saklar.
