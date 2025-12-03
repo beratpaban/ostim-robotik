@@ -131,9 +131,3 @@ Sınav öncesi bu kavramları bildiğinden emin ol:
   - [ ] **Sensörler:** Robotun gözü kulağıdır. Mesafe (Ultrasonik), Renk, Çizgi sensörleri vardır.
 
 -----
-
-**Öğretmenim, bir sonraki adımda ne yapmamı istersiniz?**
-
-  * *Seçenek A:* 2. Ünite (Programlama) için benzer notlar hazırlayabilirim.
-  * *Seçenek B:* Bu ünite için çoktan seçmeli bir test (quiz) hazırlayabilirim.
-  * *Seçenek C:* Tinkercad üzerinde yapılacak bir "Trafik Işığı" projesi için adım adım yönerge oluşturabilirim.
